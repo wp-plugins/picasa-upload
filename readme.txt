@@ -10,9 +10,9 @@ Bilder direkt bei Picasa Web aus dem Wordpress Admin
 
 == Description ==
 
-Dieses Plugin ermÃ¶glicht den Upload von Bilder zu Picasa Web direkt über den Tab von URL beim Einfügen von Bildern.
-In dieser ersten öffentlichen Version gibt es noch keine Einstellungen und Picasa wird bei jedem Aufruf des Tabs geladen. 
-In einer späteren Version wird es verschiedene Einstellungen geben. 
+Dieses Plugin ermÃ¶glicht den Upload von Bilder zu Picasa Web direkt Ã¼ber den Tab von URL beim EinfÃ¼gen von Bildern.
+In dieser ersten Ã¶ffentlichen Version gibt es noch keine Einstellungen und Picasa wird bei jedem Aufruf des Tabs geladen. 
+In einer spÃ¤teren Version wird es verschiedene Einstellungen geben. 
 Weiterhin gibt es das Plugin vorerst nur auf Deutsch. 
 
 * [http://www.pascal90.de/2011/09/picasa-upload-wordpress-plugin/] (Weitere Details)
@@ -22,13 +22,13 @@ Weiterhin gibt es das Plugin vorerst nur auf Deutsch.
 1. Picasa Upload herunterladen
 1. Das zip entpacken 
 1. den Ordner ins Verzeichnis `/wp-content/plugins/` hochladen
-1. Picasa Upload über 'Plugins' im Wordpress Menü aktivieren
+1. Picasa Upload Ã¼ber 'Plugins' im Wordpress MenÃ¼ aktivieren
 
 
 == Screenshots ==
 
 1. Uploader in Wordpress Admin
-2. Bild aus Album wählen
+2. Bild aus Album wÃ¤hlen
 
 == Changelog ==
 
