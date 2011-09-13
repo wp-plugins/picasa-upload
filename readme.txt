@@ -10,13 +10,13 @@ Bilder direkt bei Picasa Web im Wordpress Admin
 
 == Description ==
 
-=== Features ===
+= Features =
 * Upload zu Picasa Web
 * Vorhadene Picasa Web Bilder in Artikel einfügen
 
 Das Plugin erlaubt den Upload von Bildern zu Picasa Web dirkte über den Tab "Von URL" beim Einfügen von Bildern im WordPress Admin. 
 
-=== Hinweis ===
+= Hinweis =
 In dieser ersten öffentlichen Version gibt es noch keine Einstellungen und Picasa wird bei jedem Aufruf des Tabs "Von URL" geladen. 
 
 In einer späteren Version wird es verschiedene Einstellungen geben. 
