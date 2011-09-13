@@ -15,7 +15,7 @@ In dieser ersten öffentlichen Version gibt es noch keine Einstellungen und Pica
 In einer späteren Version wird es verschiedene Einstellungen geben. 
 Weiterhin gibt es das Plugin vorerst nur auf Deutsch. 
 
-* [http://www.pascal90.de/2011/09/picasa-upload-wordpress-plugin/] (Weitere Details)
+* [Weitere Details](http://www.pascal90.de/2011/09/picasa-upload-wordpress-plugin/)
 
 == Installation ==
 
