@@ -40,5 +40,8 @@ Weiterhin gibt es das Plugin vorerst nur auf Deutsch.
 
 == Changelog ==
 
+= 0.5.1 =
+* Fix für mögliche PHP Notices bei der Abfrage des Tabs.
+
 = 0.5 =
 * erste Version.
