@@ -6,6 +6,7 @@ Description: integrierter Upload zu Picasa Web beim verfassen von Artikel
 Version: 0.5
 Author: Pascal
 Author URI: http://www.pascal90.de
+Plugin URI: http://www.pascal90.de/2011/09/picasa-upload-wordpress-plugin/
 */
 
 //laedt picasa in wordpress
