@@ -40,6 +40,9 @@ Weiterhin gibt es das Plugin vorerst nur auf Deutsch.
 
 == Changelog ==
 
+= 0.5.2 =
+* Fix: Verlinkung auf Originalgröße.
+
 = 0.5.1 =
 * Fix für mögliche PHP Notices bei der Abfrage des Tabs.
 
