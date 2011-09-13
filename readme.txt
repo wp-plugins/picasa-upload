@@ -1,4 +1,4 @@
-=== Picasa Upload ===
+ï»¿=== Picasa Upload ===
 Contributors: hebbet
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4XVUXPXN3XDJY
 Tags: picasa, upload, google, google picker
@@ -10,11 +10,12 @@ Bilder direkt bei Picasa Web aus dem Wordpress Admin
 
 == Description ==
 
-Dieses Plugin ermöglicht den Upload von Bilder zu Picasa Web direkt über den Tab von URL beim Einfügen von Bildern.
+Dieses Plugin ermÃ¶glicht den Upload von Bilder zu Picasa Web direkt über den Tab von URL beim Einfügen von Bildern.
 In dieser ersten öffentlichen Version gibt es noch keine Einstellungen und Picasa wird bei jedem Aufruf des Tabs geladen. 
 In einer späteren Version wird es verschiedene Einstellungen geben. 
 Weiterhin gibt es das Plugin vorerst nur auf Deutsch. 
 
+* [http://www.pascal90.de/2011/09/picasa-upload-wordpress-plugin/] (Weitere Details)
 
 == Installation ==
 
