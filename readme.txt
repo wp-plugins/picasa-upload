@@ -39,6 +39,8 @@ Weiterhin gibt es das Plugin vorerst nur auf Deutsch.
 2. Bild aus Album wählen
 
 == Changelog ==
+= 0.6 =
+* Fix für WordPress 3.3
 
 = 0.5.2 =
 * Fix: Verlinkung auf Originalgröße.

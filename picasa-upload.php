@@ -3,7 +3,7 @@
 Plugin Name: Picasa Upload
 Plugin URI: http://wordpress.org/extend/plugins/picasa-upload/
 Description: integrierter Upload zu Picasa Web beim verfassen von Artikel
-Version: 0.5.2
+Version: 0.6
 Author: Pascal
 Author URI: http://www.pascal90.de
 Plugin URI: http://www.pascal90.de/2011/09/picasa-upload-wordpress-plugin/
@@ -47,7 +47,7 @@ function picasa_upload_scripts() {?>
 <?php  
 } 
 //script hinzufügen, wenn Bild und von url
-if(!empty($_GET['tab'])&&$_GET['tab']=='type_url'&&!empty($_GET['type'])&&$_GET['type']=='image')
+if(!empty($_GET['tab'])&&$_GET['tab']=='type_url')
 {
 	add_action( 'admin_print_scripts-media-upload-popup','picasa_upload_scripts' ); 
 }
