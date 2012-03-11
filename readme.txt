@@ -4,7 +4,7 @@ Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id
 Tags: picasa, upload, google, google picker
 Requires at least: 3.1
 Tested up to: 3.3
-Stable tag: trunk
+Stable tag: 0.7
 
 Bilder direkt bei Google+/Picasa Web im Wordpress Admin 
 
