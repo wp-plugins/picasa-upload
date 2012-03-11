@@ -1,4 +1,4 @@
-﻿=== Picasa Upload ===
+﻿=== Google+/Picasa Upload ===
 Contributors: hebbet
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4XVUXPXN3XDJY
 Tags: picasa, upload, google, google picker
@@ -6,7 +6,7 @@ Requires at least: 3.1
 Tested up to: 3.3
 Stable tag: trunk
 
-Bilder direkt bei Picasa Web im Wordpress Admin 
+Bilder direkt bei Google+/Picasa Web im Wordpress Admin 
 
 == Description ==
 
@@ -14,7 +14,7 @@ Bilder direkt bei Picasa Web im Wordpress Admin
 * Upload zu Picasa Web
 * Vorhadene Picasa Web Bilder in Artikel einfügen
 
-Das Plugin erlaubt den Upload von Bildern zu Picasa Web dirkte über den Tab "Von URL" beim Einfügen von Bildern im WordPress Admin. 
+Das Plugin erlaubt den Upload von Bildern zu Picasa Web direkt über den Tab "Von URL" beim Einfügen von Bildern im WordPress Admin. Zum Einsatz kommt unter der Haube die Google Picker API, die den Zugriff auf Google+-Fotos bzw. Picasa Web ermöglicht.
 
 = Hinweis =
 In dieser ersten öffentlichen Version gibt es noch keine Einstellungen und Picasa wird bei jedem Aufruf des Tabs "Von URL" geladen. 
@@ -39,6 +39,9 @@ Weiterhin gibt es das Plugin vorerst nur auf Deutsch.
 2. Bild aus Album wählen
 
 == Changelog ==
+= 0.7 =
+* korrekte Verlinkung der Full-URL
+
 = 0.6 =
 * Fix für WordPress 3.3
 
@@ -50,3 +53,6 @@ Weiterhin gibt es das Plugin vorerst nur auf Deutsch.
 
 = 0.5 =
 * erste Version.
+
+== Bekannte Fehler ==
+* kleine Bilder werden manchmal nicht eingefügt.
