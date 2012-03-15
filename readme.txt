@@ -3,7 +3,7 @@ Contributors: hebbet
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4XVUXPXN3XDJY
 Tags: picasa, upload, google, google picker
 Requires at least: 3.1
-Tested up to: 3.3
+Tested up to: 3.4
 Stable tag: trunk
 
 Bilder direkt bei Google+/Picasa Web im Wordpress Admin 
@@ -39,6 +39,8 @@ Weiterhin gibt es das Plugin vorerst nur auf Deutsch.
 2. Bild aus Album wählen
 
 == Changelog ==
+= 0.7.1=
+* Anpassung an Upload per Drag und Drop
 = 0.7 =
 * korrekte Verlinkung der Full-URL
 
