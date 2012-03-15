@@ -3,7 +3,7 @@
 Plugin Name: Google+/Picasa Upload
 Plugin URI: http://wordpress.org/extend/plugins/picasa-upload/
 Description: integrierter Upload zu Picasa Web beim verfassen von Artikel
-Version: 0.7
+Version: 0.7.1
 Author: Pascal
 Author URI: http://www.pascal90.de
 Plugin URI: http://www.pascal90.de/2011/09/picasa-upload-wordpress-plugin/
@@ -15,15 +15,15 @@ function picasa_upload_scripts() {?>
 <script type="text/javascript">
 	//picker erstellen
 	google.setOnLoadCallback(createPicker);
-	//picker laden auf deutsch
-	google.load('picker', '1', {'language':'de'});
+	//picker laden
+	google.load('picker', '1');
 
 	//Picker Upload+Auswahl aus Alben
 	function createPicker() {
 		var picker = new google.picker.PickerBuilder().
 			addView(google.picker.ViewId.PHOTO_UPLOAD).
 			addView(google.picker.ViewId.PHOTOS).
-			setSize(600,500).
+			setSize(650,500).
 			setTitle("Bild hochladen/ausw\u00e4hlen").
 			setCallback(pickerCallback).
 			build();
