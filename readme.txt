@@ -39,8 +39,9 @@ Weiterhin gibt es das Plugin vorerst nur auf Deutsch.
 2. Bild aus Album wählen
 
 == Changelog ==
-= 0.7.1=
+= 0.7.1 =
 * Anpassung an Upload per Drag und Drop
+
 = 0.7 =
 * korrekte Verlinkung der Full-URL
 
